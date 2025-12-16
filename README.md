@@ -6,8 +6,7 @@ Examples Included:
 
 1. Simple Marker Example
 
-        File: simple-marker.html
-        Features
+        File: Leaflet-marker.html
         Displays a Leaflet map centered on Bengaluru, India
         Adds a single static marker
         Shows a popup when the marker is clicked
@@ -15,6 +14,7 @@ Examples Included:
 
 2. Custom Marker on Click Example
 
+        File: Leaflet-custom-marker.html
         Click anywhere on the map to place a marker
         Uses a custom icon
         Automatically removes the previous marker
